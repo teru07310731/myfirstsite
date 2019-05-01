@@ -6,5 +6,7 @@
 </head>
 <body>
     <h1>Contact Form</h1>
+    <li><a href="/about">About us</a></li>
+	<li><a href="/contact">Contact</a></li>
 </body>
 </html>

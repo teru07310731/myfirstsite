@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>yield('title', 'Laracasts')</title>
+	<title>@yield('title', 'Laracasts')</title>
 </head>
 <body>
 	<ul>

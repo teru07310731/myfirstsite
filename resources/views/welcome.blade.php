@@ -6,9 +6,9 @@
 </head>
 <body>
     <h1>Here we go!!!</h1>
-	<p>
-		<a href="/contact">Contact</a>Contact us to learn more.
-	</p>
-
+	<ul>
+		<li><a href="/about">About</a>About us</li>
+		<li><a href="/contact">Contact</a>Contact</li>
+	</ul>
 </body>
 </html> 

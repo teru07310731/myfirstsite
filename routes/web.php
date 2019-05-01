@@ -19,10 +19,7 @@ Route::get('/', function () {
 		'Go to the concert'
 	];
 
-    return view('welcome', [
-    	'tasks' => $tasks,
-    	'foo' => request('title')
-    ]);
+	return view('welcome')->withTasks($tasks)->withFoo('foo');
 });
 
 
